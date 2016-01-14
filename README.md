@@ -3,6 +3,9 @@
 Fetches Name , Rating , Cost for 2 , Address , Cusine for top 5 locations in Jaipur city and eventually stores it in a sqlite3 database.
 
 
+### References
+* https://www.sqlite.org/cli.html
+
 ### Packages Used
 * urllib2
 * BeautifulSoup4
